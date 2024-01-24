@@ -3,7 +3,14 @@ Use of markdown (https://docs.github.com/en/get-started/writing-on-github/gettin
 
 Essentials in your README:
 -Title (text or image)
--Introduction (what it's about and why it's written)
+-Introduction/Description (what it's about and why it's written)
+>what was your motivation
+>why did you build this project?
+>what problem does it solve?
+>what did you learn?
+>what makes your project stand out?
+*Can also describe challenges faced as well as features planned to implement in the future
+*If project is deployed, include link to deployed application
 -How to install
 -How to Use
 -Technologies used (libraries/versions/etc)
@@ -13,5 +20,3 @@ Essentials in your README:
 -Table of contents (especially if README is long)
 -List of features
 -Examples of use (with code or images)
-
-
