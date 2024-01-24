@@ -1,7 +1,7 @@
 Resources:
 https://x-team.com/blog/how-to-write-a-great-readme/
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-https://github.com/matiassingers/awesome-readme
 
 Examples:
 https://github.com/microsoft/vscode
+https://github.com/matiassingers/awesome-readme
